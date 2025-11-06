@@ -1,0 +1,14 @@
+# Node.js関連
+node_modules
+.next
+npm-debug.log
+
+# Docker関連
+db_data
+
+# 環境変数ファイル
+.env
+
+# MacやWindowsのゴミファイル
+.DS_Store
+Thumbs.db

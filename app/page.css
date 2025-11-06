@@ -1,0 +1,9 @@
+.home {
+  background: #fafafa;
+  text-align: center;
+  padding: 60px;
+}
+.home h1 {
+  color: #f16060;
+  font-size: 2.4rem;
+}

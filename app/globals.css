@@ -1,0 +1,22 @@
+/* 全体のベーススタイル（フォント、余白、色）お試しのため自分でいじってね */
+
+/* ===== 全体リセット ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #020202;
+  font-size: 2.4rem;
+  width: 100%;
+  text-align: center;
+}
+
+footer {
+  background: #f2f2f2;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 40px;
+}
