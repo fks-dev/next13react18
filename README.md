@@ -28,7 +28,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
 
 ```bash
 git clone https://github.com/fks-dev/next13react18.git
-cd Next13React18
+cd next13react18
 ```
 
 ### 2. 環境変数の確認（任意）
@@ -154,3 +154,4 @@ await conn.end();
 * 環境: Next.js 13.5.4 / React 18 / Node 18 / MySQL 8.0 / phpMyAdmin 5
 
 ---
+
