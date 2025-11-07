@@ -102,14 +102,18 @@ docker compose up -d
 ```
 Next13React18/
 ├─ app/
-│  ├─ page.js          # トップページ
-│  ├─ page.css         # トップページCSS
-│  ├─ layout.js        # 共通レイアウト
-│  └─ globals.css      # 全体スタイル
-├─ docker-compose.yml  # Docker構成
-├─ Dockerfile          # Node.js環境
-├─ package.json        # Next.js設定
-└─ README.md           # このファイル
+│  ├─ page.js           # トップページ
+│  ├─ page.css          # トップページCSS
+│  ├─ layout.js         # 共通レイアウト（ヘッダーやフッターなど）
+│  └─ globals.css       # 全体スタイル
+├─ .dockerignore        # Dockerビルド時に除外するファイル
+├─ .gitignore           # Gitで追跡しないファイルを指定
+├─ docker-compose.yml   # Docker構成（Next.js + MySQL + phpMyAdmin）
+├─ Dockerfile           # Node.js 18 (Alpine) 環境定義
+├─ next.config.mjs      # Next.jsの設定（ルートやビルド設定など）
+├─ package.json         # npmパッケージ設定
+├─ package-lock.json    # npm依存関係固定
+└─ README.md            # このファイル（環境説明書）
 ```
 
 ---
@@ -154,4 +158,5 @@ await conn.end();
 * 環境: Next.js 13.5.4 / React 18 / Node 18 / MySQL 8.0 / phpMyAdmin 5
 
 ---
+
 
