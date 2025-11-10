@@ -247,7 +247,9 @@ await conn.end();
  Vueが対応してるフレームワークがNuxt.jsです（誤字ではありません...ややこしい...）。まとめると・・・  
  React（Next.js）  
  Vue（Nuxt.js）  
-> がセットで使われます。
+> がセットで使われます。どちらもTypeScriptが使えますが、考え方は一緒で無くても開発できます。  
+ TypeScriptはミスを防ぐガイド付きのペン（型があるため安全）だと思ってもらえたらわかりやすいかなと思います。
+ 案件がTypeScriptを使用していたら積極的に学びましょう！
  
 
 ### 🚀 Next.js 13 のApp Router入門
@@ -256,6 +258,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
