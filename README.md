@@ -239,7 +239,8 @@ await conn.end();
 
 > この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
 > HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。  
-> 補足:**Vite（ヴィート）** は、React や Vue などをすぐに動かせるようにしてくれる  
+> 補足情報  
+> **Vite（ヴィート）** は、React や Vue などをすぐに動かせるようにしてくれる  
 「開発用のツール（ビルドツール）」です。React や Vue が鉛筆だとしたら Viteは 作業机 です。  
 
 ### 🚀 Next.js 13 のApp Router入門
@@ -248,6 +249,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
