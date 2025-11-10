@@ -28,8 +28,8 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   その中で **Client Component** が「動きを担当」します。  
 例）
   app/  
-  ├─ page.jsx ← 🖥 Server Component（データ取得・HTML生成）  
-  └─ Button.jsx ← 💻 Client Component（ユーザー操作・アニメーション）  
+  ├─ page.js ← 🖥 Server Component（データ取得・HTML生成）  
+  └─ Button.js ← 💻 Client Component（ユーザー操作・アニメーション）  
 
 
 ---
@@ -259,6 +259,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
