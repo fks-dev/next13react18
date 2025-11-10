@@ -259,7 +259,7 @@ await conn.end();
  Vue → Nuxt.js  
 > がセットで使われます。どちらもTypeScriptが使えますが、考え方は一緒で無くても開発できます。  
 
-> なんでこんな名前なのか?....不思議で調べてみました。  
+> NextもNuxtもなんでこんなややこしい名前なのか?...私を苦しめているのか！不思議で調べてみました。  
   開発者たちは「Vue版Next.jsを作ろう！」って発想で名前を付けたので、  
   Next は React の Next、  
   Nuxt は Vue の Next（N + Vue = Nuxt）  
@@ -278,6 +278,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
