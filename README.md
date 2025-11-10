@@ -21,6 +21,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   | **SSR** | アクセス時にサーバーで生成 | 最新データ・SEOに強い。 | ニュース・商品詳細 |
   | **SSG** | ビルド時に生成 | 超速い。CDN配信OK。 | ブログ・LP・企業サイト |
   | **ISR** | SSG＋一定時間で再生成 | 静的＋更新対応。 | 商品一覧・記事一覧 |
+  
   ※補足※
   ・SPA（Multi Page Application）は最初に1ページ読み込み、以後はJSで中身だけ更新。ページの切り替えも画面を再読み込みせずに動く。
   この逆でMPA（Single Page Application）がページごとにサーバーへリクエスト（HTMLを再読込）。一般的なブログ等はこれ。
@@ -264,6 +265,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
