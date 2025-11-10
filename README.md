@@ -4,8 +4,8 @@ Next.js（App Router構成）＋ MySQL ＋ phpMyAdmin を
 Docker Compose で簡単に立ち上げられる開発環境です。
 案件に伴い、勉強用に作成しました。
 
-Next.js:フレームワーク。
-React: Facebook（現Meta）が作った「UIライブラリ」。
+・Next.js:フレームワーク。
+・React: Facebook（現Meta）が作った「UIライブラリ」。
 
 さらにここからTypeScript（JavaScriptの型付き拡張言語）を導入して学習することもできます。
 （私の）頭がパンクするので今回は導入してませんが、まずはNext.jsとReactから学習しましょう。
@@ -174,6 +174,7 @@ await conn.end();
 
 
 ---
+
 
 
 
