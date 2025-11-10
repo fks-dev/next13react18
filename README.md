@@ -235,7 +235,7 @@ await conn.end();
 以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
 実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
 
-### 🧑‍🏫 みんな大好きイケメン先生（日本語・実践シリーズ）
+### 🧑‍🏫 みんな大好きイケメン先生（実践）
 **Next.jsと一緒に学ぶReact講座**  
 🔗 [YouTube再生リストはこちら](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
 
@@ -283,6 +283,7 @@ Windowsも最初に出てたくさんの機能ありますもんね～。長年�
 Windows と mac みたいな関係に近いかなと感じました。余談でした。
 
 ---
+
 
 
 
