@@ -46,7 +46,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
 さらにここから **TypeScript（JavaScriptの型付き拡張言語）** を導入して学習することも可能です。  
 今回は ~~（私の頭がパンクしそうなので）~~ 導入していませんが、  まずは **Next.js と React** の理解を優先しましょう。  
 Next.jsは、TypeScript対応が標準で組み込まれてるので、案件で必要な方は **依存パッケージ追加** を各自導入お願いします。  
-また **.js** の拡張子を **.tsx** に書き換える必要があります。
+またTypeScript導入後は **.js** の拡張子を **.tsx** に書き換える必要があります。
 下記に関係性をメモしておきます。  
 
 - **TypeScript** は **JavaScriptの拡張言語** で、Next.jsの開発にも組み込まれることが多いです。  
@@ -304,6 +304,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
