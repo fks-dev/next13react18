@@ -2,6 +2,15 @@
 
 Next.js（App Router構成）＋ MySQL ＋ phpMyAdmin を
 Docker Compose で簡単に立ち上げられる開発環境です。
+案件に伴い、勉強用に作成しました。
+
+Next.js:フレームワーク
+React: Facebook（現Meta）が作った「UIライブラリ」。
+
+さらにここからTypeScript（JavaScriptの型付き拡張言語）を導入して学習することもできます。
+（私の）頭がパンクするので今回は導入してませんが、まずはNext.jsとReactから学習しましょう。
+
+ページ下記に学習用動画のリンク貼ってあるので、環境導入ができたら学習していきましょう！！
 
 ---
 
@@ -152,11 +161,19 @@ await conn.end();
 
 ---
 
-## 👥 作者
+## 🎥 参考動画
+以下の動画は、参考学習資料です。他にもいいのあったら教えてほしいです・・・。
+- みんな大好きイケメン先生。
+  - Next.jsと一緒に学ぶReact講座 → https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO
 
-* yoshiki.fukushi
-* 環境: Next.js 13.5.4 / React 18 / Node 18 / MySQL 8.0 / phpMyAdmin 5
+- React の Hooks（例えば useState・useEffect・useRef）は、Next.jsプロジェクトでも同じように使い必須スキルです。動画ではあくまで学習用なのでNext.jsを使用してませんが、やることは一緒なのでおさえておきましょう。
+  - React Hooks入門 → https://www.youtube.com/watch?v=uuAdVs7sbAs
+
+-　Next.js 13の使い方。Next.jsとはなんぞや？をわかりやすく教えてくれます。
+  - Next.js 13 App Router入門 → https://www.youtube.com/watch?v=lO-Ulx1rclk
+
 
 ---
+
 
 
