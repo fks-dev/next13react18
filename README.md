@@ -24,7 +24,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   
   ※補足※  
   ・SPA（Multi Page Application）は最初に1ページ読み込み、以後はJSで中身だけ更新。ページの切り替えも画面を再読み込みせずに動く。  
-  この逆でMPA（Single Page Application）がページごとにサーバーへリクエスト（HTMLを再読込）。一般的なブログ等はこれ。  
+  この逆でMPA（Single Page Application）はページごとにサーバーへリクエスト（HTMLを再読込）。一般的なブログ等はこれ。  
   ・CDN（Content Delivery Network）はサイトのデータを世界中のサーバーにコピーして、  近い場所から届ける仕組み。これによりどの国からアクセスしても爆速で表示可能。
 
 - **Next.js 13 の構成**：  
@@ -264,6 +264,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
