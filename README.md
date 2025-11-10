@@ -11,6 +11,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
 
 - **React**：Meta（旧Facebook）が開発したUIライブラリ。  
   コンポーネント単位で画面を構築し、再利用性が高い。  
+  SPAのようなサクサク画面が動くUIページを作れる。  
 
 - **Next.js**：Reactベースのフレームワーク。  
   ページ生成の仕組みは4種類あり、**動的**（CSR・SSR）と **静的**（SSG・ISR）に分かれます。
@@ -24,7 +25,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   
 > <sub>📝 **補足**  
 > ・**SPA（Single Page Application）**：最初に1ページ読み込み、以後は JavaScript が中身だけ更新。ページ再読み込みなしで動く。  
-> ・**MPA（Multi Page Application）**：ページごとにHTMLを再読込。一般的なブログなどで使われる。  
+> ・**MPA（Multi Page Application）**：ページごとにHTMLを再読込。yahooサイトみたいなクリックしたらページが全体が再読み込みされるサイトがこれにあたる。  
 > ・**CDN（Content Delivery Network）**：サイトのデータを世界中のサーバーにコピーして、近い場所から配信。どの国からでも高速表示できる。</sub>
 
 - **Next.js 13 の構成**：  
@@ -305,6 +306,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
