@@ -268,6 +268,8 @@ await conn.end();
 **Vue.js** は **Reactと同じくUIライブラリ** ですが、  
 フレームワーク機能も備えており、HTML・CSS・JSを分けて書けるのが大きな特徴です。  
 HTMLに近い感覚でサクッと作れるので、直感的に扱いやすいと人気です。  
+既存の静的HTMLサイトに少しだけ動きを追加したい場合、Vue.jsは「1ページの一部だけに適用」も可能です。  
+React や Next.js、Nuxt.js のように全体をフレームワークで固める必要がないため、Vue.js は小規模サイトでの採用事例が多いです。  
 
 「Reactは自由度が高いけど難しい…もっとわかりやすく開発したい！」  
 という声から生まれたのが **Vue.js** です。  
@@ -301,7 +303,9 @@ Next.js採用例）Netflix、Hulu、Nike（ナイキ）、Adidas（アディダ�
 Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、  
 **軽くて扱いやすいフレームワーク** です。  
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
+vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
