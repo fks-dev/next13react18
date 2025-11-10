@@ -14,6 +14,7 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   SPAのようなサクサク画面が動くUIページを作れる。  
 
 - **Next.js**：Reactベースのフレームワーク。  
+  フロントエンドはReact、バックエンドは Node.js で動いてます。
   ページ生成の仕組みは4種類あり、**動的**（CSR・SSR）と **静的**（SSG・ISR）に分かれます。
 
   | 種類 | いつHTMLを作る？ | 特徴 | 向いてるページ |
@@ -306,6 +307,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
