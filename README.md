@@ -296,14 +296,13 @@ JavaScriptだけでも同じように開発が可能です。
 「Nuxt.jsの方が後発だから強そう！」と思うかもしれません（私も最初そうでした）。  
 でも、実際には **Next.js の方が自由度が高く、周辺ツールも非常に豊富** で、  
 多くの大手企業で採用されています。  
-採用例）Netflix、Hulu、Nike（ナイキ）、Adidas（アディダス）、Uber、Starbucks
+Next.js採用例）Netflix、Hulu、Nike（ナイキ）、Adidas（アディダス）、Uber、Starbucks
 
 Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、  
 **軽くて扱いやすいフレームワーク** です。  
-Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
-国内大手のVue.js/Nuxt.jsの明確な情報はありませんでした。  
-Nintendo の欧州サイトやXiaomi CorporationはVue.js を使っているという情報があります。
-気になった方は調べてみたら面白いかもしれません。
+Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。
+Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
