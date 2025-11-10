@@ -241,7 +241,14 @@ await conn.end();
 > HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。  
 > 補足情報  
 > **Vite（ヴィート）** は、React や Vue などをすぐに動かせるようにしてくれる  
-「開発用のツール（ビルドツール）」です。React や Vue が鉛筆だとしたら Viteは 作業机 です。  
+「開発用のツール（ビルドツール）」です。React や Vue が鉛筆だとしたら Viteは 作業机 です。
+ フレームワークではありません！ 余計な機能がなく動作が高速のため、実務案件でも採用されています。
+ ちなみにVueはReactと同じでライブラリUIではありますが、小さいフレームワーク機能もあります。  
+ Vueが対応してるフレームワークがNuxt.jsです（ややこしい...）。まとめると・・・  
+ React（Next.js）  
+ Vue（Nuxt.js）
+> がセットで使われます。
+ 
 
 ### 🚀 Next.js 13 のApp Router入門
 **Next.js 13 App Router入門**  
@@ -249,6 +256,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
