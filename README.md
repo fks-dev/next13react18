@@ -243,7 +243,8 @@ await conn.end();
 > コンポーネント分割やルーティング構成など、実務を想定した内容です。
 
 ### ⚙️ React Hooksの基礎（Vite環境だが考え方は同じ）
-**React Hooks入門（useState / useEffect / useRef）**  
+**React Hooks入門（useState/useEffect/useContext/useRef/useReducer/useMemo
+/useCallback/Custom Hooks）**  
 🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=uuAdVs7sbAs)
 
 > この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
@@ -303,6 +304,7 @@ Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決
 > <sub>
 >考えてみるとWindowsも最初に出てたくさんの機能ありますもんね～。長年洗練されてきた技術は簡単に超えられないということですかね（個人的な感想）。
 >Windows と mac みたいな関係に近いかなと感じました。余談でした。
+
 
 
 
