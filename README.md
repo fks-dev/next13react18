@@ -1,18 +1,33 @@
 # 🐳 Next.js 13 + React 18 + MySQL + phpMyAdmin (Docker構成)
 
-Next.js（App Router構成）＋ MySQL ＋ phpMyAdmin を
-Docker Compose で簡単に立ち上げられる開発環境です。
+Next.js（App Router構成）＋ MySQL ＋ phpMyAdmin を  
+Docker Compose で簡単に立ち上げられる開発環境です。  
 案件に伴い、勉強用に作成しました。
 
-・Next.js:フレームワーク。
-・React: Facebook（現Meta）が作った「UIライブラリ」。
+---
 
-さらにここからTypeScript（JavaScriptの型付き拡張言語）を導入して学習することもできます。
-（私の）頭がパンクするので今回は導入してませんが、まずはNext.jsとReactから学習しましょう。
+### 🧠 使用技術の概要
 
-ページ下記に学習用動画のリンク貼ってあるので、環境導入ができたら学習していきましょう！！
+- **Next.js**：Reactベースのフレームワーク。  
+  SSR（サーバーサイドレンダリング）や SSG（静的サイト生成）などに対応。  
+
+- **React**：Facebook（現Meta）が開発した「UIライブラリ」。  
+  コンポーネント単位で画面を構築でき、再利用性が高い。  
 
 ---
+
+### 💡 学習のステップ
+
+さらにここから **TypeScript（JavaScriptの型付き拡張言語）** を導入して学習することも可能です。  
+今回は私の頭がパンクしそうなので導入していませんが、  
+まずは **Next.js と React** の理解を優先しましょう。
+
+---
+
+### 🎥 学習用動画
+
+ページ下部におすすめの学習動画リンクを掲載しています。  
+環境構築が完了したら、順に見ながら進めていきましょう！
 
 ## 🚀 環境概要
 
@@ -162,20 +177,39 @@ await conn.end();
 ---
 
 ## 🎥 参考動画
-以下の動画は、参考学習資料です。
 
-```
-- みんな大好きイケメン先生。
-  - Next.jsと一緒に学ぶReact講座 → https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO
-
-- React の Hooks（例えば useState・useEffect・useRef）は、Next.jsプロジェクトでも同じように使い必須スキルです。下記動画ではあくまで学習用なのでNext.jsを使用してませんが、やることは一緒なのでおさえておきましょう。
-  - React Hooks入門 → https://www.youtube.com/watch?v=uuAdVs7sbAs
-
-- Next.js 13の使い方。Next.jsとはなんぞや？をわかりやすく教えてくれます。
-  - Next.js 13 App Router入門 → https://www.youtube.com/watch?v=lO-Ulx1rclk
-```
+以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
+実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
 
 ---
+
+### 🧑‍🏫 みんな大好きイケメン先生（日本語・実践シリーズ）
+**Next.jsと一緒に学ぶReact講座**  
+🔗 [YouTube再生リストはこちら](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
+
+> Next.jsとReactを並行して学べる人気シリーズ。  
+> コンポーネント分割やルーティング構成など、実務を想定した内容です。
+
+---
+
+### ⚙️ React Hooksの基礎（Vite環境だが考え方は同じ）
+**React Hooks入門（useState / useEffect / useRef）**  
+🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=uuAdVs7sbAs)
+
+> この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
+> HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。
+
+---
+
+### 🚀 Next.js 13 のApp Router入門
+**Next.js 13 App Router入門**  
+🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=lO-Ulx1rclk)
+
+> Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
+> わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
+---
+
 
 
 
