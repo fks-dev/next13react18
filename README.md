@@ -255,7 +255,7 @@ await conn.end();
  ちなみにVueはReactと同じでライブラリUIではありますが、小さいフレームワーク機能もあります。  
  Vueが対応してるフレームワークがNuxt.js（読み:ナクスト）です。誤字ではありません...ややこしい...
 > まとめると・・・  
- React（Next.js）
+ React（Next.js）  
  Vue（Nuxt.js）  
 > がセットで使われます。どちらもTypeScriptが使えますが、考え方は一緒で無くても開発できます。  
 
@@ -267,6 +267,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
