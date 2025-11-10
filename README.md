@@ -238,7 +238,7 @@ await conn.end();
 以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
 実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
 
-### コードを一度すべて削除して、動画の手順どおりに進めると全体の流れがつかみやすいです(8:20)あたりから。  
+### コードを一度すべて削除して、動画の手順どおりに進めると全体の流れがつかみやすいです(8:20前後）。  
 **Next.js 13入門 - App Router対応**  
 > 🔗 [Next.js 13 入門 - App Router対応（YouTube）](https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s)
 
@@ -303,6 +303,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
