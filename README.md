@@ -57,6 +57,7 @@ Next.jsは、TypeScript対応が標準で組み込まれてるので、案件で
 
 - **React だけでもアプリは作れます** が、  
   **Next.js** と組み合わせることで、より効率的で実践的な開発が可能になります。
+  正直ほとんどの案件で使用されていると思われます・・・。
 
 - 学習の流れとしては、  
   👉 **React → Next.js → TypeScript** の順番で学ぶのが最もスムーズです。
@@ -237,31 +238,26 @@ await conn.end();
 以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
 実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
 
-### 🧑‍🏫 みんな大好きイケメン先生（実践）
-**Next.jsと一緒に学ぶReact講座**  
-🔗 [YouTube再生リストはこちら](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
+### コードを一度すべて削除して、動画の手順どおりに進めると全体の流れがつかみやすいです。  
+**Next.js 13入門 - App Router対応**  
+> 🔗 [Next.js 13 入門 - App Router対応（YouTube）](https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s)
 
-> Next.jsとReactを並行して学べる人気シリーズ。  
-> コンポーネント分割やルーティング構成など、実務を想定した内容です。
+> Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
+> わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。 
 
 ### ⚙️ React Hooksの基礎（Vite環境だが考え方は同じ）
 **React Hooks入門（useState/useEffect/useContext/useRef/useReducer/useMemo
 /useCallback/Custom Hooks）**  
-🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=uuAdVs7sbAs)
+🔗 [React Hooks入門](https://www.youtube.com/watch?v=uuAdVs7sbAs)
 
 > この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
 > HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。  
 > ※補足情報※  
 > **Vite（ヴィート）** は、React や Vue.js などをすぐに動かせるようにしてくれる  
-「開発用のツール（ビルドツール）」です。React や Vue.js が鉛筆だとしたら Viteは 作業机 です。
- フレームワークではありません！ 余計な機能がなく動作が高速のため、実務案件でも採用されています。  
+> 「開発用のツール（ビルドツール）」です。React や Vue.js が鉛筆だとしたら Viteは 作業机 です。
+>  フレームワークではありません！ 余計な機能がなく動作が高速のため、実務案件でも採用されています。  
 
-### 🚀 Next.js 13 のApp Router入門
-**Next.js 13 App Router入門**  
-🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=lO-Ulx1rclk)
-
-> Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
-> わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。  
+ 
 
 ---
 
@@ -307,6 +303,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
