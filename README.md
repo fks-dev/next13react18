@@ -162,18 +162,21 @@ await conn.end();
 ---
 
 ## 🎥 参考動画
-以下の動画は、参考学習資料です。他にもいいのあったら教えてほしいです・・・。
+以下の動画は、参考学習資料です。
+
+```
 - みんな大好きイケメン先生。
   - Next.jsと一緒に学ぶReact講座 → https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO
 
-- React の Hooks（例えば useState・useEffect・useRef）は、Next.jsプロジェクトでも同じように使い必須スキルです。動画ではあくまで学習用なのでNext.jsを使用してませんが、やることは一緒なのでおさえておきましょう。
+- React の Hooks（例えば useState・useEffect・useRef）は、Next.jsプロジェクトでも同じように使い必須スキルです。下記動画ではあくまで学習用なのでNext.jsを使用してませんが、やることは一緒なのでおさえておきましょう。
   - React Hooks入門 → https://www.youtube.com/watch?v=uuAdVs7sbAs
 
--　Next.js 13の使い方。Next.jsとはなんぞや？をわかりやすく教えてくれます。
+- Next.js 13の使い方。Next.jsとはなんぞや？をわかりやすく教えてくれます。
   - Next.js 13 App Router入門 → https://www.youtube.com/watch?v=lO-Ulx1rclk
-
+```
 
 ---
+
 
 
 
