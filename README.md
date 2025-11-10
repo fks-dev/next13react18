@@ -219,12 +219,12 @@ await conn.end();
 
 ---
 
+
+
 ## 🎥 参考動画
 
 以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
 実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
-
----
 
 ### 🧑‍🏫 みんな大好きイケメン先生（日本語・実践シリーズ）
 **Next.jsと一緒に学ぶReact講座**  
@@ -233,16 +233,14 @@ await conn.end();
 > Next.jsとReactを並行して学べる人気シリーズ。  
 > コンポーネント分割やルーティング構成など、実務を想定した内容です。
 
----
-
 ### ⚙️ React Hooksの基礎（Vite環境だが考え方は同じ）
 **React Hooks入門（useState / useEffect / useRef）**  
 🔗 [YouTube動画を見る](https://www.youtube.com/watch?v=uuAdVs7sbAs)
 
 > この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
 > HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。
-
----
+> 補足:**Vite（ヴィート）** は、React や Vue などをすぐに動かせるようにしてくれる  
+「開発用のツール（ビルドツール）」です。React や Vue が鉛筆だとしたら Viteは 作業机 です。  
 
 ### 🚀 Next.js 13 のApp Router入門
 **Next.js 13 App Router入門**  
@@ -251,7 +249,7 @@ await conn.end();
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
 
----
+
 
 
 
