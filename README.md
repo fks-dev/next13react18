@@ -22,16 +22,10 @@ Docker Compose で簡単に立ち上げられる開発環境です。
   | **SSG** | ビルド時に生成 | 超速い。CDN配信OK。 | ブログ・LP・企業サイト |
   | **ISR** | SSG＋一定時間で再生成 | 静的＋更新対応。 | 商品一覧・記事一覧 |
   
-<small>
-
-※補足※  
-・**SPA（Single Page Application）** は最初に1ページ読み込み、以後はJSで中身だけ更新。ページの切り替えも画面を再読み込みせずに動く。  
-この逆で **MPA（Multi Page Application）** はページごとにサーバーへリクエスト（HTMLを再読込）。一般的なブログ等はこれ。  
-
-・**CDN（Content Delivery Network）** はサイトのデータを世界中のサーバーにコピーして、近い場所から届ける仕組み。  
-これによりどの国からアクセスしても爆速で表示可能。
-
-</small>
+> <sub>📝 **補足**  
+> ・**SPA（Single Page Application）**：最初に1ページ読み込み、以後は JavaScript が中身だけ更新。ページ再読み込みなしで動く。  
+> ・**MPA（Multi Page Application）**：ページごとにHTMLを再読込。一般的なブログなどで使われる。  
+> ・**CDN（Content Delivery Network）**：サイトのデータを世界中のサーバーにコピーして、近い場所から配信。どの国からでも高速表示できる。</sub>
 
 - **Next.js 13 の構成**：  
   コンポーネントは動作場所で役割が分かれます。  
@@ -270,6 +264,7 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+
 
 
 
