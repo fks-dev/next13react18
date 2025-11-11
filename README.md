@@ -232,34 +232,34 @@ await conn.end();
 
 ---
 
-### 📓 React学習
-**公式サイトでも学習を進めることができるので、ここは"全て"目を通しましょう。（日本語対応）**
-> 🔗 [React 公式ドキュメント](https://ja.react.dev/)
-
-
-### 🎥 参考動画
+### 📓🎥 React学習
 
 以下は、Next.js と React Hooks の理解を深めるための学習用動画です。  
 実務で使う前に一度見ておくと、コード構造や考え方がしっかり身につきます。
 
+**公式サイトでも学習を進めることができるので、ここは"全て"目を通しましょう。（日本語対応）**
+> 🔗 [React 公式ドキュメント](https://ja.react.dev/)
+
+**この動画も凄くわかりやすいです。ファイル名とコードを合わせて学習をしましょう(7:50前後)。**
+>🔗 [【React入門】完全初心者OK！１から簡単なTodoアプリを作ってReactの１歩を踏み出してみよう Reactチュートリアル](https://www.youtube.com/watch?v=nRCNL9T3J98&t=471s)
+
+**React HooksはNext.jsでも必須技術なのでここで基本をしっかり押さえましょう(Vite環境)**  
+> 🔗 [React Hooks入門](https://www.youtube.com/watch?v=uuAdVs7sbAs)
+
+> ※補足※  
+> **Vite（ヴィート）** は、React や Vue.js などをすぐに動かせるようにしてくれる  
+> 「開発用のツール（ビルドツール）」です。フレームワークではありません！
+> React や Vue.js が鉛筆だとしたら Viteは 作業机 です。余計な機能がなく動作が高速のため、実務案件でも採用されています。  
+
+### 🎥 Next.js学習
 ### コードを一度すべて削除して、動画の手順どおりに進めると全体の流れがつかみやすいです(8:20前後）。  
 **Next.js 13入門 - App Router対応**  
 > 🔗 [Next.js 13 入門 - App Router対応（YouTube）](https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s)
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
-> わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。 
+> わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
+> 
 
-### ⚙️ React Hooksの基礎（Vite環境だが考え方は同じ）
-**React Hooks入門（useState/useEffect/useContext/useRef/useReducer/useMemo
-/useCallback/Custom Hooks）**  
-> 🔗 [React Hooks入門](https://www.youtube.com/watch?v=uuAdVs7sbAs)
-
-> この動画は Vite を使っていますが、Next.js でも同じHooksが使えます。  
-> HooksはNext.js開発でも必須スキルなので、ここで基本をしっかり押さえましょう。  
-> ※補足情報※  
-> **Vite（ヴィート）** は、React や Vue.js などをすぐに動かせるようにしてくれる  
-> 「開発用のツール（ビルドツール）」です。React や Vue.js が鉛筆だとしたら Viteは 作業机 です。
->  フレームワークではありません！ 余計な機能がなく動作が高速のため、実務案件でも採用されています。  
 
  
 
@@ -306,6 +306,7 @@ Vue.js/Nuxt.js はその **“良いところ”** を参考にして作られ�
 React が部品を自由に組む「レゴ」だとしたら、 Vue.js は型が決まった「プラモデル」です。  
 **vue.js採用例)** Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 **Nuxt.js採用例)** JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
