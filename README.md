@@ -302,10 +302,11 @@ JavaScriptだけでも同じように開発が可能です。
 多くの大手企業で採用されています。  
 **Next.js採用例）** Netflix、Hulu、Nike（ナイキ）、Adidas（アディダス）、Uber、Starbucks  
 
-Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、  軽くて扱いやすいフレームワークです。  
+Vue.js/Nuxt.js はその **“良いところ”** を参考にして作られた、 **軽くて扱いやすいフレームワークです。**  
 React が部品を自由に組む「レゴ」だとしたら、 Vue.js は型が決まった「プラモデル」です。  
 **vue.js採用例)** Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 **Nuxt.js採用例)** JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
