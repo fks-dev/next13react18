@@ -258,10 +258,9 @@ await conn.end();
 
 > Next.js 13の新しい構造（`app/`ディレクトリやServer/Client Components）を  
 > わかりやすく解説してくれる動画。Next.jsを初めて触る人に最適です。
-> 
 
-
- 
+ここまできたら何かしら自分でアプリ作ってみたりTypeScriptの学習に入ってもいいかもしれません。
+まだ私自身追いついてないので、学習が進みましたらちまちまとリニューアルします。
 
 ---
 
@@ -306,6 +305,7 @@ Vue.js/Nuxt.js はその **“良いところ”** を参考にして作られ�
 React が部品を自由に組む「レゴ」だとしたら、 Vue.js は型が決まった「プラモデル」です。  
 **vue.js採用例)** Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 **Nuxt.js採用例)** JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
