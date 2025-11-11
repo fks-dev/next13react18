@@ -58,7 +58,7 @@ Next.jsは、TypeScript対応が標準で組み込まれてるので、案件で
 
 - **React だけでもアプリは作れます** が、  
   **Next.js** と組み合わせることで、より効率的で実践的な開発が可能になります。
-  正直ほとんどの案件で使用されていると思われます・・・。
+  おそらくNext.js/React のほとんどの案件で使用されていると思われます・・・。
 
 - 学習の流れとしては、  
   👉 **React → Next.js → TypeScript** の順番で学ぶのが最もスムーズです。
@@ -306,6 +306,7 @@ Vue.js/Nuxt.js はその **“良いところ”** を参考にして作られ�
 React が部品を自由に組む「レゴ」だとしたら、 Vue.js は型が決まった「プラモデル」です。  
 **vue.js採用例)** Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 **Nuxt.js採用例)** JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
