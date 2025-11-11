@@ -232,9 +232,9 @@ await conn.end();
 
 ---
 
-### 📓 React公式document
-**公式ドキュメントでも学習を進めることができるので全て目を通しましょう。（日本語対応）**
-> 🔗 [React 公式ドキュメント]([https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s](https://ja.react.dev/)
+### 📓 React学習
+**公式サイトでも学習を進めることができるので全て目を通しましょう。（日本語対応）**
+> 🔗 [React 公式ドキュメント](https://ja.react.dev/)
 
 
 ## 🎥 参考動画
@@ -307,6 +307,7 @@ Vue.js/Nuxt.js はその “良いところ” を参考にして作られた、
 Reactが部品を自由に組む「レゴ」だとしたら、Vue.jsは型が決まった「プラモデル」です。  
 vue.js採用例)Nintendo の欧州サイト、Xiaomi Corporation（中国）、Alibaba Group（中国）  
 Nuxt.js採用例)JSW Group（インド）、n8n（ドイツ：SaaS）、Baxter（イタリア・メーカー）
+
 
 
 
