@@ -157,12 +157,8 @@ age = "20歳";             // エラー！数値じゃないとダメ
 開発を始める前に、以下の2つをインストールしておいてください:
 
 - **Docker Desktop(WSL2対応版)**
-  - 複数のサービス(Next.js、MySQL、phpMyAdmin)をまとめて動かすツール
-  - [公式サイト](https://www.docker.com/products/docker-desktop)からダウンロード
   
 - **Git**
-  - コードを管理するツール
-  - [公式サイト](https://git-scm.com/)からダウンロード
 
 ---
 
@@ -564,4 +560,5 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 ---
 
 一緒に頑張りましょう！
+
 
