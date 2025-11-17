@@ -301,20 +301,21 @@ JavaScriptの中にHTMLっぽいコードを書ける記法です。
 export default function Hello() {
   return (
     <>
-      <h1>こんにちは！</h1>;
+      <h1>こんにちは！</h1>
       <p>これは学習用です。</p>
     </>
-  )
-}
+  );
+};
 
 //アロー関数の場合。こっちが主流。
 const Hello = () => {
   return (
     <>
-      <h1>こんにちは！</h1>;
+      <h1>こんにちは！</h1>
       <p>これは学習用です。</p>
     </>
-  )
+  );
+};
 export default Hello;
 
 ```
@@ -577,6 +578,7 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 ---
 
 一緒に頑張りましょう！
+
 
 
 
