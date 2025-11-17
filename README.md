@@ -301,6 +301,13 @@ JavaScriptの中にHTMLっぽいコードを書ける記法です。
 function Hello() {
   return <h1>こんにちは！</h1>;
 }
+
+//アロー関数の場合。こっちが主流。
+const Hello = () => {
+  return <h1>Hello</h1>;
+};
+
+export default Hello;
 ```
 
 ### .jsと.jsxの使い分け
@@ -560,6 +567,7 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 ---
 
 一緒に頑張りましょう！
+
 
 
 
