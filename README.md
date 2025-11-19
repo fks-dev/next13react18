@@ -454,7 +454,7 @@ Reactで「状態管理」や「副作用処理」を簡単に書けるように
 
 ---
 
-## Next.js学習(Reactの次のステップ)
+### 4. Next.js学習(Reactの次のステップ)
 
 Reactの基本が分かったら、Next.jsに進みましょう。
 
@@ -478,7 +478,7 @@ https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s
 
 ---
 
-## TypeScript学習(余裕があったら)
+### 5. TypeScript学習(余裕があったら)
 
 Next.jsの基本が分かったら、TypeScriptに進みましょう。  
 TypeScriptはNext.js案件でほぼほぼ使われています。  
@@ -596,6 +596,7 @@ JavaScriptとの違いがシンプルに説明されており、基礎を短時�
 ---
 
 一緒に頑張りましょう！
+
 
 
 
