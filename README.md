@@ -465,9 +465,9 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 3. 8分20秒あたりから丁寧に解説してくれます
 
 **Next.js 13入門 - App Router対応**  
-[Next.js 13 入門 - App Router対応](https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s)
+https://www.youtube.com/watch?v=lO-Ulx1rclk&t=500s
 
-**この動画で学べること:**
+**この動画で学べること**  
 - Next.js 13の新しい構造(`app/`ディレクトリ)
 - Server ComponentとClient Componentの違い
 - ルーティング(ページの追加方法)
@@ -475,6 +475,24 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 
 **Next.jsを初めて触る人に最適な動画です。**  
 手を動かしながら進めると、全体の流れがしっかり理解できます。
+
+---
+
+## TypeScript学習(余裕があったら)
+
+Next.jsの基本が分かったら、TypeScriptに進みましょう。  
+TypeScriptはNext.js案件でほぼほぼ使われています。  
+導入方法は難しくないので、TypeScriptの導入は各自でお願いします。
+
+**世界一わかりやすいTypeScript講座！プログラミング初心者もOK**  
+https://www.youtube.com/watch?v=GEMtGlBiua4&list=PLLFOC5fk1ILkLBqQRsyCk4iynGJ66spH2&index=3
+
+**この動画で学べること**  
+- TypeScriptの基本的な仕組み  
+
+TypeScriptをゼロから理解できる入門動画です。  
+JavaScriptとの違いがシンプルに説明されており、基礎を短時間で身につけられます。  
+**1時間程**で学べるので見ておいて損はないです。  
 
 ---
 
@@ -578,6 +596,7 @@ Reactの基本が分かったら、Next.jsに進みましょう。
 ---
 
 一緒に頑張りましょう！
+
 
 
 
